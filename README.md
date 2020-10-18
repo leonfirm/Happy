@@ -3,7 +3,7 @@
 <p>Localize e/ou adicione Lares de Acolhimento na sua região</p>
 
 <p align="center">
-  <img alt="Happy" src="/public/images/logo-icon.png" width="100%">
+  <img alt="Happy" src="/public/images/logo-icon.png">
 </p>
 
 <h3>Projeto desenvolvido na terceira semana NLW e <strong>adaptado</strong></p>
